@@ -1,3 +1,5 @@
+/******* Advent of Code Day 01 Project 01   *************/
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
